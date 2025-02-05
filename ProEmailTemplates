@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Templates Hub</title>
+    <meta name="description" content="A comprehensive collection of email templates for business, clients, job applications, and more. Download professionally crafted emails in PDF format.">
+    <meta name="keywords" content="email templates, business emails, job emails, client communication, professional emails, free email templates">
+    <meta name="author" content="Your Name">
+    <meta property="og:title" content="Email Templates Hub">
+    <meta property="og:description" content="Find and download professional email templates for various needs.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yourgithubpage.com">
+    <meta property="og:image" content="https://yourgithubpage.com/images/preview.png">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #333; }
+        .email-category { margin: 20px 0; }
+        .email-category h2 { color: #007BFF; }
+        .email-list { list-style: none; padding: 0; }
+        .email-list li { padding: 10px; border-bottom: 1px solid #ddd; }
+        .email-list a { text-decoration: none; color: #333; font-weight: bold; }
+        .email-list a:hover { color: #007BFF; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Email Templates Hub</h1>
+        
+        <div class="email-category">
+            <h2>Business & Work-Related Emails</h2>
+            <ul class="email-list">
+                <li><a href="#">Weekly Sales Report</a> <a href="pdfs/weekly_sales_report.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Project Update</a> <a href="pdfs/project_update.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Meeting Agenda</a> <a href="pdfs/meeting_agenda.pdf" download>[Download PDF]</a></li>
+            </ul>
+        </div>
+        
+        <div class="email-category">
+            <h2>Client & Customer Emails</h2>
+            <ul class="email-list">
+                <li><a href="#">Welcome Email</a> <a href="pdfs/welcome_email.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Thank You for Your Business</a> <a href="pdfs/thank_you_business.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Follow-Up Email</a> <a href="pdfs/follow_up.pdf" download>[Download PDF]</a></li>
+            </ul>
+        </div>
+        
+        <div class="email-category">
+            <h2>Job & Career Emails</h2>
+            <ul class="email-list">
+                <li><a href="#">Job Application</a> <a href="pdfs/job_application.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Interview Confirmation</a> <a href="pdfs/interview_confirmation.pdf" download>[Download PDF]</a></li>
+                <li><a href="#">Resignation Letter</a> <a href="pdfs/resignation_letter.pdf" download>[Download PDF]</a></li>
+            </ul>
+        </div>
+
+        
+        <p style="text-align: center;">More categories and email templates coming soon!</p>
+    </div>
+</body>
+</html>
